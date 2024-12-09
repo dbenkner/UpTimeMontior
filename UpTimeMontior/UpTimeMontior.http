@@ -1,0 +1,6 @@
+@UpTimeMontior_HostAddress = http://localhost:5072
+
+GET {{UpTimeMontior_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
